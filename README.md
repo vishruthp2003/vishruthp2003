@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishruthp2003&label=Profile%20views&color=0e75b6&style=flat" alt="vishruthp2003" /> </p>
 
+- 🔭 A Passionate Web Developer From India
+
+- 🤝 I Like Building Interesting Stuff
+
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **vishruthp2003@gmail.com**
