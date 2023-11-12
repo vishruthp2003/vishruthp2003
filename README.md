@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishruthp2003&label=Profile%20views&color=0e75b6&style=flat" alt="vishruthp2003" /> </p>
 <img align="right" height="300px" src="./Cat-typing.webp" alt="typing cat">
 
+- 👨‍💻 I'm a 3rd Year Computer Science Engineer
+
 - 🔭 A Passionate Web Developer From India
 
 - 🤝 I Like Building Interesting Stuff
