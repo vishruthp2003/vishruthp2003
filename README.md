@@ -2,6 +2,7 @@
 <h3 align="center">A Computer Science Engineer Passionate about Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishruthp2003&label=Profile%20views&color=0e75b6&style=flat" alt="vishruthp2003" /> </p>
+<img align="right" height="300px" src="./Cat-typing.webp" alt="typing cat">
 
 - 🔭 A Passionate Web Developer From India
 
