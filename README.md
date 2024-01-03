@@ -5,7 +5,7 @@
 <img height="250px" align="right" src="Cat-typing.webp" alt="Cat Typing Image">
 
 
--🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I Like Building Interesting Stuff **.**
 
