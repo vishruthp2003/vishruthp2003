@@ -2,9 +2,10 @@
 <h3 align="center">A Computer Science Engineer Passionate about Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishruthp2003&label=Profile%20views&color=0e75b6&style=flat" alt="vishruthp2003" /> </p>
-<img height="280pxpx" align="right" src="Cat-typing.webp" alt="Cat Typing Image">
+<img height="250px" align="right" src="Cat-typing.webp" alt="Cat Typing Image">
 
-- 🌱 I’m currently learning **React**
+
+-🌱 I’m currently learning **React**
 
 - 🤝 I Like Building Interesting Stuff **.**
 
